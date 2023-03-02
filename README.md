@@ -2,5 +2,10 @@
 
 ## Build
 ```
-$ podman build .
+$ podman build . -t db
+```
+
+## Run
+```
+$ podman run --network host  -e POSTGRES_PASSWORD=postgres db
 ```
