@@ -1,5 +1,5 @@
-# Containerized PostgreSQL 14 with pg_cron
-Containerized PostgreSQL 14 with pg_cron extension pre-installed.
+# Containerized PostgreSQL 15 with pg_cron
+Containerized PostgreSQL 15 with pg_cron extension pre-installed.
 
 
 ## Build
